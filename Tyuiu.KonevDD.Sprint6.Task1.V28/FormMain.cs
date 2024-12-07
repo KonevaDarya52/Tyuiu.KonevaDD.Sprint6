@@ -1,4 +1,4 @@
-﻿using Tyuiu.KonevDD.Sprint6.Task1.V28.Lib;
+﻿using Tyuiu.KonevaDD.Sprint6.Task1.V28.Lib;
 namespace Tyuiu.KonevDD.Sprint6.Task1.V28
 {
     public partial class FormMain : System.Windows.Forms.Form

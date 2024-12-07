@@ -1,4 +1,4 @@
-﻿namespace Tyuiu.KonevDD.Sprint6.Task1.V28
+﻿namespace Tyuiu.KonevaDD.Sprint6.Task1.V28
 {
     partial class FormMain
     {

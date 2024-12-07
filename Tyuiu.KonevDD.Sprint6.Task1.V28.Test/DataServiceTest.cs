@@ -1,5 +1,5 @@
 using Tyuiu.KonevaDD.Sprint6.Task1.V28.Lib;
-namespace Tyuiu.KonevDD.Sprint6.Task1.V28.Test
+namespace Tyuiu.KonevaDD.Sprint6.Task1.V28.Test
 {
     [TestClass]
     public class DataServiceTest

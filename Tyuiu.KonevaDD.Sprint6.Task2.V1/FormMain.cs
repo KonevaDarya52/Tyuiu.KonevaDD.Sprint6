@@ -29,7 +29,7 @@ namespace Tyuiu.KonevaDD.Sprint6.Task2.V1
                 textBoxResult_ZNA.AppendText("+------------+------------+" + Environment.NewLine);
                 for (int i = 0; i < len; i++)
                 {
-                    strLine = String.Format("|{0,5:d}      |   {1, 5:f2}     |", startStep, array[i]);
+                    strLine = String.Format("|{0,5:d}      |   {1, 5:f2}     |", startStep, Math.Round(array[i], 2));
                     textBoxResult_ZNA.AppendText(strLine + Environment.NewLine);
                     startStep++;
                 }
@@ -43,7 +43,7 @@ namespace Tyuiu.KonevaDD.Sprint6.Task2.V1
 
         private void buttonReference_ZNA_Click(object sender, EventArgs e)
         {
-           MessageBox.Show("Таск 2 Конева Дарья Денисовна", "Справка", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Таск 2 Конева Дарья Денисовна", "Справка", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void FormMain_Load(object sender, EventArgs e)

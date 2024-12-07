@@ -14,9 +14,9 @@ namespace Tyuiu.KonevaDD.Sprint6.Task2.V1.Lib
                 double denominator = 2 - 2 * x;
                 double value;
 
-                if (Math.Abs(denominator) < 1e-10) 
+                if (Math.Abs(denominator) < 1e-10)
                 {
-                    value = 0; 
+                    value = 0;
                 }
                 else
                 {

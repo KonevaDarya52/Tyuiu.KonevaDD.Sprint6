@@ -8,7 +8,7 @@ namespace Tyuiu.KonevaDD.Sprint6.Task2.V25.Lib
             double[] output = new double[stopValue - startValue + 1];
             for (int x = startValue, i = 0; i < output.Length; i++, x++)
             {
-                double result = Math.Round (Math.Cos(x) + Math.Sin(x) / 2 - 2 * x, 2);
+                double result = Math.Round (Math.Cos(x) + Math.Sin(x) / 2 - 2 * x - 4 * x,2);
                 if (!double.IsNaN(result))
                 {
                     output[i] = result;

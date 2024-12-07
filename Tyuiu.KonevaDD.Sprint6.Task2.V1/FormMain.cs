@@ -43,7 +43,7 @@ namespace Tyuiu.KonevaDD.Sprint6.Task2.V1
 
         private void buttonReference_ZNA_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Таск 2 Конева Дарья Денисовна АСОиУБ-24-1", "Справка", MessageBoxButtons.OK, MessageBoxIcon.Information);
+           MessageBox.Show("Таск 2 Конева Дарья Денисовна", "Справка", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void FormMain_Load(object sender, EventArgs e)

@@ -27,5 +27,3 @@ namespace Tyuiu.KonevaDD.Sprint6.Task1.V28.Lib
 
 
 }
-
-

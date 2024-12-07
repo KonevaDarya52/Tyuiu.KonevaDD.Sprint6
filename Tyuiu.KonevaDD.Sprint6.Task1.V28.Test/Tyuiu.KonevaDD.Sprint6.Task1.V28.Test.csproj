@@ -17,7 +17,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.KonevDD.Sprint6.Task1.V28.Lib\Tyuiu.KonevDD.Sprint6.Task1.V28.Lib.csproj" />
+    <ProjectReference Include="..\Tyuiu.KonevaDD.Sprint6.Task1.V28.Lib\Tyuiu.KonevaDD.Sprint6.Task1.V28.Lib.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="tyuiu.cources.programming.interfaces">
+      <HintPath>..\tyuiu.cources.programming.interfaces.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
   <ItemGroup>

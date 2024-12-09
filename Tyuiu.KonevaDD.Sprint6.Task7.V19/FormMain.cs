@@ -62,7 +62,7 @@ namespace Tyuiu.KonevaDD.Sprint6.Task7.V19
         private void buttonHelp_MSM_Click(object sender, EventArgs e)
         {
             FormAbout fa = new FormAbout();
-            MessageBox.Show("Таск 4 выполнила студентка группы АСОиУБ-24-1 Конева Дарья Денисовна ", "О программе ", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Таск 7 выполнила студентка группы АСОиУБ-24-1 Конева Дарья Денисовна ", "О программе ", MessageBoxButtons.OK, MessageBoxIcon.Information);
             fa.ShowDialog();
         }
 

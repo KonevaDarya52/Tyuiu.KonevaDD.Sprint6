@@ -55,23 +55,7 @@ namespace Tyuiu.KonevaDD.Sprint6.Task7.V19
             buttonClose.Text = "Ок";
             buttonClose.UseVisualStyleBackColor = true;
             buttonClose.Click += buttonClose_Click;
-            // 
-            // FormAbout
-            // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
-            AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(256, 348);
-            Controls.Add(buttonClose);
-            Controls.Add(textBox1);
-            FormBorderStyle = FormBorderStyle.FixedDialog;
-            Margin = new Padding(3, 4, 3, 4);
-            MaximizeBox = false;
-            MinimizeBox = false;
-            Name = "FormAbout";
-            StartPosition = FormStartPosition.CenterScreen;
-            Text = "О программе";
-            ResumeLayout(false);
-            PerformLayout();
+
         }
 
         #endregion

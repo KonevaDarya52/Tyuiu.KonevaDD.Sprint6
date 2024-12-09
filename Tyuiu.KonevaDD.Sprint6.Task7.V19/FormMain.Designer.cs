@@ -231,7 +231,7 @@ namespace Tyuiu.KonevaDD.Sprint6.Task7.V19
             MinimumSize = new Size(800, 500);
             Name = "FormMain";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Спринт 6 | Таск 7 | Вариант 3 | Тимонин И.А";
+            Text = "Спринт 6 | Таск 7 | Вариант 19 | Конева Д.Д";
             panelUP_MSM.ResumeLayout(false);
             groupBoxTask_MSM.ResumeLayout(false);
             groupBoxTask_MSM.PerformLayout();
